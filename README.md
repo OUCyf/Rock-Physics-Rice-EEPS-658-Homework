@@ -1,17 +1,16 @@
 # Rock Physics Homework EEPS-458/658-001-F22 in Rice University 
 
 
-Author: Fu Yin  
+- Author: Fu Yin  
 
-Department: EEPS
+- Department: EEPS
 
-Email: fy21@rice.edu 
+- Email: fy21@rice.edu 
 
-Webpage: http://yinfu.info/ 
+- Time: 202208 - 202212
+- Advisor: Professor Jonathan Ajo-Franklin, Rice University
 
-Advisor: Professor Jonathan Ajo-Franklin, Rice University
 
-Time: 202208 - 202212
 
 The full **LaTeX** distribution are recommended in this template, and install via [TexLive](https://github.com/scottkosty/install-tl-ubuntu) on Linux, and via [MacTex](https://www.tug.org/mactex/) on MacOS.
 
