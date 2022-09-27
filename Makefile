@@ -17,7 +17,7 @@ main:
 clean: 
 	latexmk -c $(MAIN).tex
 	rm -r _minted-main
-	rm -r *.bbl
+# rm -r *.bbl
 
 gif:
 	convert -density 600 main.pdf -background white -alpha background -alpha off -strip -resize @1048576 main-%02d.png
