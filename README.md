@@ -44,9 +44,9 @@ The full **LaTeX** distribution are recommended in this template, and install vi
 
 - Download Homework PDF [main.pdf](https://github.com/OUCyf/Rock-Physics-RIce-EEPS-658-Homework/raw/gh-pages/main.pdf)
 
----
+<!-- ---
 ![img](https://github.com/OUCyf/Rock-Physics-RIce-EEPS-658-Homework/raw/gh-pages/main.gif)
 
----
+--- -->
 
 
